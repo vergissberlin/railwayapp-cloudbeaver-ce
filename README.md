@@ -6,6 +6,41 @@ Deploy CloudBeaver CE on Railway with one click.
 
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/REPLACE_WITH_RAILWAY_TEMPLATE_CODE?referralCode=2_sIT9&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
+# Deploy and Host CloudBeaver CE on Railway
+
+CloudBeaver CE is the open-source, web-based SQL client from the DBeaver team. This template
+packages the official `dbeaver/cloudbeaver` Docker image so you can deploy a fully working
+instance on Railway in a single click, without installing a desktop database client or managing
+a server yourself.
+
+## About Hosting CloudBeaver CE
+
+CloudBeaver CE runs entirely in the browser: connect to PostgreSQL, MySQL, SQLite, MongoDB, and
+many other databases through one shared web UI. Hosting it on Railway means Railway builds the
+Docker image, terminates TLS on a public domain, and keeps the container restarted and healthy —
+you only manage the data sources you connect to.
+
+## Why Deploy CloudBeaver CE on Railway
+
+* **Zero infrastructure management** — no VM or Docker host to patch or size
+* **Instant HTTPS** — Railway issues a public domain with TLS out of the box
+* **Persistent storage** — a Railway volume keeps connections, users, and settings across redeploys
+* **Automatic rebuilds** — Renovate keeps the pinned upstream image current, Railway redeploys on push
+* **Team access** — invite teammates to the same Railway project instead of sharing local installs
+
+## Common Use Cases
+
+* Giving a team shared, browser-based access to shift/prod databases without VPN-only desktop tools
+* A lightweight admin UI for a database already running on Railway (Postgres, MySQL, MongoDB, …)
+* Ad-hoc SQL exploration and reporting during development or debugging
+* Onboarding new engineers with one shared login instead of installing a desktop SQL client each
+
+## Dependencies for CloudBeaver CE
+
+* The official `dbeaver/cloudbeaver` Docker image (pinned tag, see `Dockerfile`)
+* A Railway volume mounted at `/opt/cloudbeaver/workspace` for persistent configuration and data
+* Network access to whichever databases you connect to from within CloudBeaver
+
 ## ✨ Features
 
 * Web-based UI for browsing, querying, and managing SQL/NoSQL databases
