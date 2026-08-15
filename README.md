@@ -4,7 +4,7 @@
 
 Deploy CloudBeaver CE on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/REPLACE_WITH_RAILWAY_TEMPLATE_CODE?referralCode=2_sIT9&utm_medium=integration&utm_source=template&utm_campaign=generic)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/cloudbeaver-ce?referralCode=2_sIT9&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 # Deploy and Host CloudBeaver CE on Railway
 
