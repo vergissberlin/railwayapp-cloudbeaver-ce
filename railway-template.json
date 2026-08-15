@@ -5,7 +5,7 @@
   "repo": "vergissberlin/railwayapp-cloudbeaver-ce",
   "displayName": "CloudBeaver CE",
   "publishedCode": "cloudbeaver-ce",
-  "image": "https://raw.githubusercontent.com/vergissberlin/railwayapp-cloudbeaver-ce/main/template-header.svg",
+  "image": "https://raw.githubusercontent.com/vergissberlin/railwayapp-cloudbeaver-ce/main/logo-cloudbeaver-ce.svg",
   "description": "Web-based SQL client for browsing and querying databases",
   "workspaceAutomation": true,
   "badge": {
