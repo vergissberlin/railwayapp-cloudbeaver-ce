@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/vergissberlin/railway/main/docs/railway-template.schema.json",
+  "schemaVersion": 1,
+  "project": "railwayapp-cloudbeaver-ce",
+  "repo": "vergissberlin/railwayapp-cloudbeaver-ce",
+  "displayName": "CloudBeaver CE",
+  "publishedCode": "cloudbeaver-ce",
+  "image": "https://raw.githubusercontent.com/vergissberlin/railwayapp-cloudbeaver-ce/main/template-header.svg",
+  "description": "Web-based SQL client for browsing and querying databases",
+  "workspaceAutomation": true,
+  "badge": {
+    "label": "CloudBeaver",
+    "color": "382923",
+    "logo": "dbeaver"
+  },
+  "logoFile": "logo-cloudbeaver-ce.svg"
+}
