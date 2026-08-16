@@ -17,5 +17,6 @@ export CLOUDBEAVER_WEB_SERVER_PORT="${CLOUDBEAVER_WEB_SERVER_PORT:-${port}}"
 # CB_ADMIN_NAME/CB_ADMIN_PASSWORD auto-configuration can complete cleanly. Remove this block after
 # the next successful deploy - it must never run against a volume with real connections/users.
 rm -rf /opt/cloudbeaver/workspace/.data /opt/cloudbeaver/workspace/.metadata /opt/cloudbeaver/workspace/GlobalConfiguration
+echo "railway-entrypoint: wiped stale workspace state" >&2
 
 exec "${UPSTREAM_ENTRYPOINT}" "$@"
