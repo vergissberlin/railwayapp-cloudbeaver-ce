@@ -1,4 +1,4 @@
-ARG VERSION=26.1.4
+ARG VERSION=26.2.2
 
 FROM dbeaver/cloudbeaver:${VERSION}
 
