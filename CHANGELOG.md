@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/vergissberlin/railwayapp-cloudbeaver-ce/compare/railwayapp-cloudbeaver-ce-v0.2.1...railwayapp-cloudbeaver-ce-v0.2.2) (2026-10-21)
+
+
+### Chores
+
+* **deps:** update dbeaver/cloudbeaver docker tag to v26.2.2 ([#5](https://github.com/vergissberlin/railwayapp-cloudbeaver-ce/issues/5)) ([835ee7d](https://github.com/vergissberlin/railwayapp-cloudbeaver-ce/commit/835ee7dbfc8e460e505c0869263ed90625311c2b))
+
 ## [0.2.1](https://github.com/vergissberlin/railwayapp-cloudbeaver-ce/compare/railwayapp-cloudbeaver-ce-v0.2.0...railwayapp-cloudbeaver-ce-v0.2.1) (2026-08-20)
 
 
