@@ -93,6 +93,10 @@ Found a bug? [Create an issue](https://github.com/vergissberlin/railwayapp-cloud
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## 💬 Support
+
+Questions or feedback? Visit the [template forum on Railway Central Station](https://station.railway.com/templates/cloud-beaver-ce-d24ad8a0).
+
 ## 📝 License
 
 MIT — see [LICENSE](LICENSE).
