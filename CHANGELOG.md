@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.2.2](https://github.com/vergissberlin/railwayapp-cloudbeaver-ce/compare/railwayapp-cloudbeaver-ce-v0.2.1...railwayapp-cloudbeaver-ce-v0.2.2) (2026-10-28)
+
+
+### Documentation
+
+* add template forum link ([#8](https://github.com/vergissberlin/railwayapp-cloudbeaver-ce/issues/8)) ([432c9f9](https://github.com/vergissberlin/railwayapp-cloudbeaver-ce/commit/432c9f986fe1d9c04cb3747643fece7a42cacc4b))
+
+
+### Chores
+
+* **deps:** update dbeaver/cloudbeaver docker tag to v26.2.2 ([#5](https://github.com/vergissberlin/railwayapp-cloudbeaver-ce/issues/5)) ([835ee7d](https://github.com/vergissberlin/railwayapp-cloudbeaver-ce/commit/835ee7dbfc8e460e505c0869263ed90625311c2b))
+* **deps:** update dbeaver/cloudbeaver docker tag to v26.2.3 ([#7](https://github.com/vergissberlin/railwayapp-cloudbeaver-ce/issues/7)) ([6745de3](https://github.com/vergissberlin/railwayapp-cloudbeaver-ce/commit/6745de39c22c4655380dcafeb44cfce49296f1aa))
+
 ## [0.2.1](https://github.com/vergissberlin/railwayapp-cloudbeaver-ce/compare/railwayapp-cloudbeaver-ce-v0.2.0...railwayapp-cloudbeaver-ce-v0.2.1) (2026-08-20)
 
 
